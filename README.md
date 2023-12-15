@@ -1,6 +1,6 @@
 # weyland-log-parser
 
-Parse & display information about errors and warnings found by Weyland (Durandal) optimizer.
+Parse & display information about errors and warnings found by [Weyland (Durandal)](https://github.com/dmr/Weyland) optimizer.
 
 ## Description
 
